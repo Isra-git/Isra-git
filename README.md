@@ -14,7 +14,7 @@
     ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
     ![DraftJS](https://img.shields.io/badge/DraftJS-red?style=flat)
-* **🔗 Link:** [View Repository](https://github.com/Isra-git/isra-react-portfolio)
+* **🔗 Link:** [View Repository]([(https://github.com/Isra-git/portfolio-v2)])
 
 ---
 
