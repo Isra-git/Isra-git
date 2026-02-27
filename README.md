@@ -54,7 +54,7 @@
 ---
 
 ## 📈 GitHub Stats / Estadísticas
-![IsraDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isra-git&show_icons=true&theme=radical)
+![IsraDev's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Isra-git&show_icons=true&theme=radical)
 
 ---
 
