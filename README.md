@@ -52,9 +52,9 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - **🔗 Link:** [View Repository](https://github.com/Isra-git/gamepassion)
 
-#### 3. learning about AI: Sdd, Rag, pgvector..
+### 3. learning about AI: Sdd, Rag, pgvector..
 
-#### 4. Others: Oauth, jwt, Redis, tailwind..
+### 4. Others: Oauth, jwt, Redis, tailwind..
 
 ---
 
