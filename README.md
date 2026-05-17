@@ -21,6 +21,10 @@
   - 🌐 **Frontend:** [https://stackmind-tau.vercel.app/](https://stackmind-tau.vercel.app/)
   - ⚙️ **Backend:** [https://stackmind-api.onrender.com/](https://stackmind-api.onrender.com/)
 
+- **🔗 Repositorios / Links:**
+  - 🌐 **Frontend:** [https://github.com/Isra-git/stackmind-frontend](https://github.com/Isra-git/stackmind-frontend)
+  - ⚙️ **Backend:** [https://github.com/Isra-git/stackmind-backend](https://github.com/Isra-git/stackmind-backend)
+
 > ⚠️ **Nota / Note:**
 > _[ES]_ Los repositorios de StackMind son los **únicos que mantengo activos** actualmente. El resto de repositorios de mi perfil corresponden a ejercicios de práctica o pruebas de aprendizaje.
 > _[EN]_ The StackMind repositories are currently the **only ones I actively maintain**. The rest of the repositories on my profile are practice exercises and learning tests.
